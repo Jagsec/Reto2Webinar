@@ -1,0 +1,45 @@
+.grayBG{
+    background-color: grey;
+}
+.centered_text{
+    text-align: center;
+}
+.centered_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.centered_button{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.centered_textbox{
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    -ms-transform: translate(-60%, -50%);
+    transform: translate(-60%, -50%);
+}
+.centered_textbox_button{
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 57%;
+    -ms-transform: translate(-60%, -50%);
+    transform: translate(-60%, -50%);
+}
+.centered_link{
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    -ms-transform: translate(-60%, -50%);
+    transform: translate(-60%, -50%);
+    color: red;
+}
